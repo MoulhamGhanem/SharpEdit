@@ -1,0 +1,11 @@
+D:\Projects\notepad\SharpEdit\bin\Debug\SharpEdit.exe.config
+D:\Projects\notepad\SharpEdit\bin\Debug\SharpEdit.exe
+D:\Projects\notepad\SharpEdit\bin\Debug\SharpEdit.pdb
+D:\Projects\notepad\SharpEdit\obj\Debug\SharpEdit.csproj.AssemblyReference.cache
+D:\Projects\notepad\SharpEdit\obj\Debug\SharpEdit.Form1.resources
+D:\Projects\notepad\SharpEdit\obj\Debug\SharpEdit.Properties.Resources.resources
+D:\Projects\notepad\SharpEdit\obj\Debug\SharpEdit.csproj.GenerateResource.cache
+D:\Projects\notepad\SharpEdit\obj\Debug\SharpEdit.csproj.CoreCompileInputs.cache
+D:\Projects\notepad\SharpEdit\obj\Debug\SharpEdit.exe
+D:\Projects\notepad\SharpEdit\obj\Debug\SharpEdit.pdb
+D:\Projects\notepad\SharpEdit\obj\Debug\SharpEdit.exe.config

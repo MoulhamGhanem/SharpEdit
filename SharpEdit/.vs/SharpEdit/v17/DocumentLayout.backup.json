@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\Projects\\notepad\\SharpEdit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6103FD6-5F8B-4322-A3BA-B0BB9F18F6CA}|SharpEdit.csproj|d:\\projects\\notepad\\sharpedit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E6103FD6-5F8B-4322-A3BA-B0BB9F18F6CA}|SharpEdit.csproj|d:\\projects\\notepad\\sharpedit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6103FD6-5F8B-4322-A3BA-B0BB9F18F6CA}|SharpEdit.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6103FD6-5F8B-4322-A3BA-B0BB9F18F6CA}|SharpEdit.csproj|D:\\Projects\\notepad\\SharpEdit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E6103FD6-5F8B-4322-A3BA-B0BB9F18F6CA}|SharpEdit.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -19,11 +23,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projects\\notepad\\SharpEdit\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Projects\\notepad\\SharpEdit\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:23:31.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Projects\\notepad\\SharpEdit\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Projects\\notepad\\SharpEdit\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "ToolTip": "D:\\Projects\\notepad\\SharpEdit\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T18:06:40.691Z",
               "EditorCaption": " [Design]"
